@@ -1,0 +1,15 @@
+!Jbox2dLib/src
+!Jbox2dLib/lib
+!Jbox2dLib/.classpath
+!Jbox2dLib/.project
+
+Jbox2dLib/.settings/
+Jbox2dLib/bin/
+
+!Jbox2dTestbed/src
+!Jbox2dTestbed/lib
+!Jbox2dTestbed/.classpath
+!Jbox2dTestbed/.project
+
+Jbox2dTestbed/.settings/
+Jbox2dTestbed/bin/
